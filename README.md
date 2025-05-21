@@ -105,6 +105,6 @@ Creates a `Countdown` class that can be iterated over, counting down from a give
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-oop-assignments.git
+   git clone https://github.com/whoizlaiba/06_Build_Compose_and_Decorate_A_Complete_Traditional_OOP_Practice_Series.git
    cd python-oop-assignments
 
