@@ -6,7 +6,7 @@ This repository contains 21 Python assignments demonstrating key concepts in Obj
 
 ## 📋 Table of Contents
 
-1. [Using `self`](#1-using-self)
+1. [Using `self`]
 2. [Using `cls`](#2-using-cls)
 3. [Public Variables and Methods](#3-public-variables-and-methods)
 4. [Class Variables and Class Methods](#4-class-variables-and-class-methods)
